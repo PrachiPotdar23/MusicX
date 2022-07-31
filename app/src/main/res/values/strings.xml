@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicX</string>
+    <string name="welcome_to_your_favorite_music_app">Welcome to Your favorite Music app</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="todo">TODO</string>
+    <string name="playing">Music is playing!</string>
+    <string name="paused">Music is Paused!</string>
+    <string name="stopped">Music is stopped!</string>
+</resources>
